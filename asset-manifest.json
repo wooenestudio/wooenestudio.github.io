@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9b864f7b.css",
+    "main.js": "/static/js/main.aed4da77.js",
+    "static/media/officeImage.png": "/static/media/officeImage.f2e504c0c91bf93616af.png",
+    "static/media/nasim.png": "/static/media/nasim.58d43610aac5044a1585.png",
+    "static/media/oyshi.png": "/static/media/oyshi.26a66771f43060ed020b.png",
+    "static/media/sadik.png": "/static/media/sadik.db7a81d4ca6129e10101.png",
+    "static/media/bgWithLogo.png": "/static/media/bgWithLogo.90db616b85c40a51b104.png",
+    "static/media/cover.png": "/static/media/cover.9218a8e7221d7c1618f7.png",
+    "static/media/phoneIcon.png": "/static/media/phoneIcon.b104ecfcb0009b2557e8.png",
+    "static/media/mailIcon.png": "/static/media/mailIcon.20ff4253570db53420d4.png",
+    "static/media/logoWithName.svg": "/static/media/logoWithName.a4da7da1d3e6e20454d79dd38c3d489e.svg",
+    "static/media/logoFC.svg": "/static/media/logoFC.2424f15820159a3b10d69d4da7a4163f.svg",
+    "static/media/heroSectionTypography.svg": "/static/media/heroSectionTypography.0b3e71cd928bcb8a9d166cee4ddcc4c3.svg",
+    "static/media/arrowRight.svg": "/static/media/arrowRight.7b2a609bd46d8ead88cb1aab63797e7b.svg",
+    "index.html": "/index.html",
+    "static/media/hamburgerIcon.svg": "/static/media/hamburgerIcon.03e05997f8a6e1b30ae2452144b68c66.svg",
+    "main.9b864f7b.css.map": "/static/css/main.9b864f7b.css.map",
+    "main.aed4da77.js.map": "/static/js/main.aed4da77.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b864f7b.css",
+    "static/js/main.aed4da77.js"
+  ]
+}
